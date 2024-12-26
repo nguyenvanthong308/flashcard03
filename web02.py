@@ -49,7 +49,7 @@ if file is not None:
             <div class='details-text' 
                 style='position: absolute; 
                     left: 50%; 
-                    top: {details_y - 105}px; 
+                    top: {details_y - 100}px; 
                     transform: translateX(-50%); 
                     text-align: center; 
                     font-size: 45px; 
